@@ -20,7 +20,7 @@ Olá! Sou Gustavo Silva, um engenheiro de software apaixonado por criar soluçõ
 
 ## Contato
 
-- LinkedIn: [www.linkedin.com/in/gustavo-fernando-pinheiro-da-silva]
+- LinkedIn: www.linkedin.com/in/gustavo-fernando-pinheiro-da-silva
 
 ## Contribuições
 
