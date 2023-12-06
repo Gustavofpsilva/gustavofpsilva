@@ -5,7 +5,7 @@
 
 ## Sobre mim
 
-Olá! Eu sou [Seu Nome], um engenheiro de software apaixonado por criar soluções inovadoras e intuitivas. Minha experiência se estende pelas áreas de Python, Flutter e design de produtos. Adoro desafios técnicos e estou constantemente aprendendo e aprimorando minhas habilidades para enfrentar novos projetos emocionantes.
+Olá! Sou Gustavo Silva, um engenheiro de software apaixonado por criar soluções inovadoras e intuitivas. Minha experiência se estende pelas áreas de Python, Flutter e design de produtos. Adoro desafios técnicos e estou constantemente aprendendo e aprimorando minhas habilidades para enfrentar novos projetos emocionantes.
 
 ## Habilidades
 
