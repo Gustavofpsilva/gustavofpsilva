@@ -14,9 +14,9 @@ Olá! Sou Gustavo Silva, um engenheiro de software apaixonado por criar soluçõ
 
 ## Projetos Destacados
 
-- Otimizador de rotas para entrega usando python(https://github.com/Gustavofpsilva/OtimizadorDeRotasPython): O projeto consiste em ajudar empresas de logística a encontrar a melhor rota para seus destinatários, utilizando python e API google maps.
+- [Otimizador de rotas para entrega usando python](https://github.com/Gustavofpsilva/OtimizadorDeRotasPython): O projeto consiste em ajudar empresas de logística a encontrar a melhor rota para seus destinatários, utilizando python e API google maps.
 
-- Utilização de Face Recognition para acesso de ambientes(https://github.com/Gustavofpsilva/FaceRecognitionOpenDoors): O projeto consiste no de estudo em machine learning e deep learning como chave de acesso para ambientes, utilizando python e derivados.
+- [Utilização de Face Recognition para acesso de ambientes](https://github.com/Gustavofpsilva/FaceRecognitionOpenDoors): O projeto consiste no de estudo em machine learning e deep learning como chave de acesso para ambientes, utilizando python e derivados.
 
 ## Contato
 
