@@ -6,7 +6,7 @@ Olá! Sou Gustavo Silva, um engenheiro de software apaixonado por criar soluçõ
 
 ## Habilidades
 
-- **Python:** Tenho experiência sólida no desenvolvimento de aplicativos e scripts usando Python. Trabalhei em uma variedade de projetos, desde automação de processos a modelagem de dados.
+- **Python:** Tenho experiência sólida no desenvolvimento de soluções usando Python. Trabalhei em uma variedade de projetos, desde automação de processos a modelagem de dados.
 
 - **Flutter:** Sou proficiente no desenvolvimento de aplicativos utilizando Flutter. Utilizo para criar interfaces atraentes e funcionais que proporcionam uma excelente experiência ao usuário.
 
@@ -14,7 +14,7 @@ Olá! Sou Gustavo Silva, um engenheiro de software apaixonado por criar soluçõ
 
 ## Projetos Destacados
 
-
+- [Análise de Emoções em Imagens](https://github.com/Gustavofpsilva/Analise-em-taxa-de-burnout-via-imagens): Este projeto em Python utiliza as bibliotecas gradio e fer para criar uma interface interativa que analisa emoções em imagens. Ao detectar emoções faciais, o script imprime as emoções detectadas, destaca a emoção com a pontuação mais alta e registra as informações em um arquivo de texto. A interface Gradio permite o upload de imagens para análise em tempo real.
 
 - [Modelagem de dados para uma estufa inteligente](https://github.com/Gustavofpsilva/Modelagem-de-dados-para-uma-estufa-inteligente): Este projeto demonstra um exemplo simples de modelagem de dados para uma estufa inteligente usando Python e SQLite, que posteriormente foi integrado a produção utilizando deep learning.
 
