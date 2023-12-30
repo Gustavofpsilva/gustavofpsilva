@@ -8,8 +8,6 @@ Olá! Sou Gustavo Silva, scrum master com um pé em engenheira de software apaix
 
 - **Python:** Tenho experiência sólida no desenvolvimento de soluções usando Python. Trabalhei em uma variedade de projetos, desde automação de processos a modelagem de dados.
 
-- **Flutter:** Sou proficiente no desenvolvimento de aplicativos utilizando Flutter. Utilizo para criar interfaces atraentes e funcionais que proporcionam uma excelente experiência ao usuário.
-
 - **Design de Produtos:** Além das habilidades técnicas, sou apaixonado por design de produtos. Acredito que a usabilidade e a estética são igualmente importantes para o sucesso de qualquer produto.
 
 ## Projetos Destacados
