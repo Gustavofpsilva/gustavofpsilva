@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Olá! Sou Gustavo Silva, pmo com um pé em engenheira de software apaixonado por criar soluções inovadoras e intuitivas. Minha experiência se estende pelas áreas de desenvolvimento full stack, python(Numpy, Pandas, Matplotlib, Scikit-learn, TensorFlow e PyTorch) e design de produtos. Adoro desafios técnicos e estou constantemente aprendendo e aprimorando minhas habilidades para enfrentar novos projetos.
+Olá! Sou Gustavo Silva, consultor atlassian com um pé em engenheira de software apaixonado por criar soluções inovadoras e intuitivas. Minha experiência se estende pelas áreas de desenvolvimento full stack, python(Numpy, Pandas, Matplotlib, Scikit-learn, TensorFlow e PyTorch) e design de produtos. Adoro desafios técnicos e estou constantemente aprendendo e aprimorando minhas habilidades para enfrentar novos projetos.
 
 ## Habilidades
 
